@@ -7,9 +7,9 @@ Author URI: http://chriscoyier.net
 Version: 2
 */
 
-/* 
+/*
 
-Potato Details 
+Potato Details
 
 Main Color: #793d86;
 Secondary Color: #2e2e2e;
@@ -20,15 +20,15 @@ Secondary Color: #2e2e2e;
 TABLE OF CONTENTS
 
 - FONTS
-- DEFAULTS 
+- DEFAULTS
 - FSD - footer stay down
-- NAVIGATION 
+- NAVIGATION
 - BANNER
 - NAVIGATION
 - BORDER
 - CONTENT
 - BACK TO TOP
-- CONTACT FORM 
+- CONTACT FORM
 - LISTING
 - PAGINATION
 - SHORTCODES PLUGINS HACK
@@ -286,7 +286,7 @@ a{ cursor: pointer; }
 	text-align: center;
 	margin-bottom: 0px;
 	margin-top: 0px;
-	font-family: "Accidental-Presidency"; 
+	font-family: "Accidental-Presidency";
 	font-size:22px;
 }
 .side-menu li a:hover{
@@ -343,7 +343,7 @@ button{
     line-height: 12px;
     font-size: 12px;
     padding: 8px 10px;
-    font-family: 'Raleway-Bold';	
+    font-family: 'Raleway-Bold';
     transition: all 0.1s ease;
 }
 
@@ -404,8 +404,8 @@ button{
 	text-transform: uppercase;
 	transition: ease all 0.5s;
 }
-.btn-link-container a:hover{			
-	transition: ease all 0.5s;	
+.btn-link-container a:hover{
+	transition: ease all 0.5s;
 	text-decoration: none;
 }
 
@@ -440,10 +440,10 @@ button{
 	text-align: left;
 }
 .more-btn a p {
-	margin-right: 7px;	
+	margin-right: 7px;
 }
 .return-btn a p {
-	margin-left: 7px;	
+	margin-left: 7px;
 }
 
 .widget{
@@ -502,15 +502,15 @@ button{
     padding-bottom: 470px;
     min-height: 0px;
     overflow: hidden;
-   }  
+   }
   .footer{
     position: absolute !important;
-    margin-top: -470px; 
+    margin-top: -470px;
     color: white;
     height: 470px;
     width: 100%;
     z-index: 3;
-  } 
+  }
   .footer-top{
   	height: 240px;
   	background-color: #3b1a42;
@@ -569,7 +569,7 @@ button{
   	color: white;
   	font-size: 12px;
   }
-  .footer-menu li a:hover{ 
+  .footer-menu li a:hover{
   	color: #aaaaaa;
   	background-color: transparent;
   }
@@ -580,7 +580,7 @@ button{
   .footer-copyright{
   	background: url('images/footer-pattern.png') repeat 100% 100%;
   	background-color: #3b1a42;
-  	overflow: hidden;	
+  	overflow: hidden;
   	width: 100%;
   }
 
@@ -621,7 +621,7 @@ button{
     color: #3e3e3e !important;
   }
   .es_button {
-    padding-top: 0px;    
+    padding-top: 0px;
     padding-bottom: 5px;
     float: left;
   }
@@ -653,7 +653,7 @@ button{
 	top: 0;
 	left: 0;
 	right: 0;
-	background-color: #dddddd;	
+	background-color: #dddddd;
 	color: white;
 	border-bottom: 1px solid #aaaaaa;
 	z-index: 9;
@@ -698,7 +698,7 @@ button{
 	padding: 100px 125px;
 }
 #indiv-banner{
-	padding: 40px 30px;		
+	padding: 40px 30px;
 }
 .banner-button{
 	width: 120px;
@@ -853,7 +853,7 @@ button{
 }
 .unslider ul li{
 	position:relative;
-	display:block;	
+	display:block;
 	height: auto !important;
 	background-color: black;
 	float: left;
@@ -910,7 +910,7 @@ button{
     width: 32px;
     height: 32px;
     text-indent: -9999px;
-    z-index: 9999;	
+    z-index: 9999;
 }
 
 /*unslider css*/
@@ -1061,7 +1061,7 @@ button{
 	margin: 5px 0;
 	border: 1px solid #ccc;
 	outline: none;
-	width: 100%;	
+	width: 100%;
 }
 
 .contact-form-wrapper input[type="submit"]{
@@ -1090,7 +1090,7 @@ button{
 }
 .list-items .list-details{
 	overflow: hidden;
-	border-left: 3px solid #679752;	
+	border-left: 3px solid #679752;
 }
 .list-items .list-details *{
 	float: left;
@@ -1156,7 +1156,7 @@ button{
 }
 .home-announcements-link:hover h4{
 	color: #679752;
-} 	 
+}
 
 .contact-form-details{
 	border-radius: 7px;
@@ -1187,7 +1187,7 @@ button{
 }
 .contact-details *{
 	float: left;
-}	
+}
 .contact-items p{
 	padding-left: 30px;
 }
@@ -1201,7 +1201,7 @@ button{
 }
 .cs-list-items .list-details{
 	overflow: hidden;
-	border-left: 3px solid #679752;	
+	border-left: 3px solid #679752;
 	margin-top: 15px;
 }
 .cs-list-items .list-details *{
@@ -1221,7 +1221,7 @@ button{
 	padding: 0px;
 }
 .cs-image{
-	padding: 0px; 
+	padding: 0px;
 }
 .cs-items h6{
 	text-align: justify;
@@ -1264,7 +1264,7 @@ button{
 		margin-left: 5px; }
 	.pagination-container a.active, .pagination-container a:hover {
 			background-color: #793d86;
-			color: white; 
+			color: white;
 			text-decoration: none;
 	}
 	.pagination-container .pagination-words{
@@ -1279,9 +1279,9 @@ button{
 	}
 
 /* SHORTCODES PLUGIN HACK */
-/* 
+/*
 	Table of content
-	1. accordion 
+	1. accordion
 */
 
 /* 1. accordion */
@@ -1362,7 +1362,7 @@ button{
 	margin-right: -2px;
 }
 .sb-search {
-	position: relative;	
+	position: relative;
 	width: 200px;
 	height: 20px;
 	float: right;
@@ -1420,7 +1420,7 @@ button{
 .sb-search-input:-ms-input-placeholder {
 	color: #efb480;
 }
-	
+
 .sb-icon-search,
 .sb-search-submit  {
 	width: 20px;
@@ -1450,7 +1450,7 @@ button{
 
 .sb-icon-search {
 	color: #793d86;
-	background: white;	
+	background: white;
 	z-index: 90;
 	font-size: 18px;
 	padding: 12px 30px;
@@ -1563,7 +1563,7 @@ button{
 }
 /* nexus 6p landscape view */
 @media (max-width: 435px) and (max-height: 773px){
-	
+
 }
 /* nexus 6p landscape view */
 @media (max-width: 773px) and (max-height: 435px){
@@ -1594,7 +1594,7 @@ button{
 
 	#content{
 	   padding-bottom: 572px;
-	}  
+	}
 
 	.fixed-container, .fixed-container-inner{
 		min-height: 0px;
@@ -1610,12 +1610,12 @@ button{
 	}
 
 	.footer{
-	   margin-top: -572px; 
+	   margin-top: -572px;
 	   height: 572px;
-	} 
+	}
 	.footer .container{
 		padding: 0px !important;
-		width: 100%; 	
+		width: 100%;
 	}
 	.footer-bottom{
 		height: 300px;
@@ -1636,7 +1636,7 @@ button{
 }
 /* iphone landscape view */
 @media (max-width: 800px) and (max-height: 480px){
-	
+
 }
 
 /* iphone 6 */
@@ -1663,7 +1663,7 @@ button{
 
 /* regular phone landscape view */
 @media (max-width: 640px) and (max-height: 360px){
-	
+
 }
 
 
@@ -1682,7 +1682,7 @@ button{
 	.menu-navigation li a{
 		padding: 15px 7px;
 		font-size: 10px;
-	} 
+	}
 	.btn-border-orange{
 		padding: 5px;
 	    font-size: 10px;
@@ -1714,7 +1714,7 @@ button{
 		border: 1px solid #d7d7d7
 	}
 	.cards:hover .cards-detail{
-		border: 1px solid #793d86;	
+		border: 1px solid #793d86;
 	}
 
 	.cards h2{
@@ -1765,7 +1765,7 @@ button{
 	}
 	#content{
 	   padding-bottom: 622px;
-	}  
+	}
 
 	.fixed-container, .fixed-container-inner{
 		min-height: 0px;
@@ -1781,9 +1781,9 @@ button{
 	}
 
 	.footer{
-	   margin-top: -622px; 
+	   margin-top: -622px;
 	   height: 622px;
-	} 
+	}
 	.footer .container{
 		padding: 0px;
 		width: 100%;
@@ -1863,7 +1863,7 @@ button{
 	.unslider-nav{
 	    display: none;
 	}
-	.ac-item{		
+	.ac-item{
 	    min-height: 0px;
 	    margin-bottom: 20px;
 	}
@@ -1910,11 +1910,11 @@ button{
 	}
 	#content{
 	   padding-bottom: 622px;
-	}  
+	}
 	.footer{
-	   margin-top: -622px; 
+	   margin-top: -622px;
 	   height: 622px;
-	} 
+	}
 	.footer-bottom{
 		height: 350px;
 		padding-right: 0px;
@@ -1931,13 +1931,13 @@ button{
 	}
 	.search-none input[type="search"],
 	.search-none input[type="submit"]{
-		width: 100%;	
+		width: 100%;
 	}
 	.ac-item .img-container{
 		height: 58px;
 	}
 	#indiv-banner{
-		padding: 25px 15px;		
+		padding: 25px 15px;
 	}
 	#indiv-banner label{
 		font-size: 20px ;
@@ -2031,3 +2031,47 @@ button{
 	}
 }
 
+/* HEAADER AND FOOTER SKEW */
+
+.footer-bottom {
+	position: relative;
+}
+
+.footer-bottom:before {
+  content: '';
+  background: url('/pharma/wp-content/themes/themecross/images/footer-pattern.png') repeat 100% 100%;
+  position: absolute;
+  left: 0;
+  top: -35px;
+  width: 100%;
+  height: 60px;
+  background-color: #3b1a42;
+  -webkit-transform: skewY(-2.5deg);
+  -moz-transform: skewY(-2.5deg);
+  -ms-transform: skewY(-2.5deg);
+  -o-transform: skewY(-2.5deg);
+  transform: skewY(-2.5deg);
+  -webkit-backface-visibility: hidden;
+}
+
+.sb-search {
+	position: relative;
+}
+
+.sb-search:before {
+	content: '';
+	position: absolute;
+	right: -29px;
+	top: 0;
+	width: 40%;
+	height: 100%;
+	background-color: #793d86;
+	-webkit-transform: skewX(35deg);
+	-moz-transform: skewX(35deg);
+	-ms-transform: skewX(35deg);
+	-o-transform: skewX(35deg);
+	transform: skewX(35deg);
+	-webkit-backface-visibility: hidden;
+	z-index: 2;
+	margin: 2px;
+}
