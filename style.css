@@ -1,5 +1,5 @@
 /*
-Theme Name: ThemeCross
+Theme Name: USTPharma
 Theme URI: http://digwp.com
 Description: This is just a BLANK starter WordPress Theme template -- WordPress v3.0.1
 Author: Chris Coyier
@@ -700,6 +700,19 @@ button{
 #indiv-banner{
 	padding: 40px 30px;		
 }
+.banner-button{
+	width: 120px;
+    height: 30px;
+    border: 1px solid #DDDDDD;
+    background-color: #DDDDDD;
+    right: 3%;
+    top: 80%;
+    position: absolute;
+}
+.banner-button-text{
+	font-size: 12px;
+    padding-left: 5px;
+}
 /* NAVIGATION */
 
 .menu-navigation{
@@ -1179,6 +1192,42 @@ button{
 	padding-left: 30px;
 }
 .contact-items h4{
+	padding-top: 0px;
+}
+
+.cs-list-items .list-details{
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.cs-list-items .list-details{
+	overflow: hidden;
+	border-left: 3px solid #679752;	
+	margin-top: 15px;
+}
+.cs-list-items .list-details *{
+	float: left;
+	margin: 0px;
+	margin-right: 7px;
+}
+.cs-list-items .list-details i{
+	margin-top: 2px;
+	margin-left: 10px;
+}
+.cs-items{
+	background-color: #DDDDDD;
+	height: 165px;
+}
+.cs-list-items{
+	padding: 0px;
+}
+.cs-image{
+	padding: 0px; 
+}
+.cs-items h6{
+	text-align: justify;
+	margin-top: 10px;
+}
+.cs-items h4{
 	padding-top: 0px;
 }
 
